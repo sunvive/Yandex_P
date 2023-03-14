@@ -10,7 +10,10 @@
 ---
 ### Android-приложение Яндекс Метро:
 - [Составила чек-лист для частей продукта, которых коснулись изменения в новой версии.](https://docs.google.com/spreadsheets/d/16rLIl_Ag03l5GhRzcdWTC26bSXwy4ltfnJukkq6mNOc/edit?usp=share_link)
-
-
+- [Провела проверки по спроектированной документации и зафиксировала найденные дефекты в баг-трекере YouTrack.](https://botsul.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D0%B5%D1%82%D1%80%D0%BE%7D)
+---
+### Веб-сервис Яндекс Прилавок:
+- [Составила тестововую документацию для API.](https://docs.google.com/spreadsheets/d/1Co4AHaVzoIGsGWARMyqfLNHeXi469fOPUJuZMppH9pk/edit?usp=share_link)
+- [Протестировала API через Postman и зафиксировала найденные ошибки в YouTrack](https://botsul.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA%7D)
 
 
