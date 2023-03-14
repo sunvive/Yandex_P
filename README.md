@@ -14,6 +14,13 @@
 ---
 ### Веб-сервис Яндекс Прилавок:
 - [Составила тестововую документацию для API.](https://docs.google.com/spreadsheets/d/1Co4AHaVzoIGsGWARMyqfLNHeXi469fOPUJuZMppH9pk/edit?usp=share_link)
-- [Протестировала API через Postman и зафиксировала найденные ошибки в YouTrack](https://botsul.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA%7D)
-
+- [Протестировала API через Postman и зафиксировала найденные ошибки в YouTrack.](https://botsul.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9F%D1%80%D0%B8%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA%7D)
+---
+### Веб-приложение Яндекс Самокат:
+- [Разработала mindmap функциональности формы заказа.](https://drive.google.com/file/d/1Xt2g-qUaJdtkMMBWDjfR22zNIf-ga8vX/view?usp=share_link)
+- [Составила чек-лист на валидацию полей формы бронирования.](https://docs.google.com/spreadsheets/d/1DZ7Pes0Qc8d0Ikwb3Jak3S34z06SUi2H9y-C5vCOOa0/edit?usp=share_link)
+- [Написала тест-кейсы на логику работы пуш-уведомлений.](https://docs.google.com/spreadsheets/d/17-AC_B2oW5kcgk3ZTrtbTd7SHkO78FecGtR0qnHcPy4/edit?usp=share_link)
+- [Составила чек-лист функциональности экрана «Статус заказа».](https://docs.google.com/spreadsheets/d/1chX9zA0gSKwL5bgnbg8X5EyVz8nn2yLBIDXXhgiXAzM/edit?usp=share_link)
+- [Разработала чек-лист проверок API.](https://docs.google.com/spreadsheets/d/1rS6ZorozB2NXoaQRepYsifGLVoaghejyluXO9sj4szE/edit?usp=share_link)
+- [Завела баг-репорты по результатам проведенных проверок сервиса "Яндекс.Самокат".](https://botsul.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC)
 
