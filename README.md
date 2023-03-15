@@ -1,4 +1,4 @@
-## Проекты над которыми я работала на курсе "Инженер по тестированию" в Яндекс Практикуме
+## Проекты над которыми я работала на курсе "Инженер по тестированию".
 ### Веб-приложение "Яндекс Маршруты":
 - [Составила mindmap сервиса "Яндекс Маршруты".](https://drive.google.com/file/d/1cJAmXKWJicTGJpmv8b_mpDkDdAoA9Lv6/view?usp=share_link)
 - [Написала тест-кейсы на проверку расчета стоимости поездки и времени в пути.](https://docs.google.com/spreadsheets/d/1WUWUbYMMipJ3nL6qvwpyLBYzvllT9B-BAp7IL9juUH0/edit?usp=share_link)
